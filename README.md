@@ -2,7 +2,7 @@
 
 In this repo I demonstrate techniques using tableau, general data analytics, and story telling skills to perform a mock business data analysis to provide insights and suggestions for investors to invest in a new bike sharing business in Des Moines, IA.   
 
->>> [Link to tableau public story and analysis](https://public.tableau.com/profile/tien.lee#!/vizhome/DataCamp/BikeSharingAnalysis?publish=yes)
+## [Link to tableau public story and analysis](https://public.tableau.com/profile/tien.lee#!/vizhome/DataCamp/BikeSharingAnalysis?publish=yes)
 
 Written Analysis below:
 
